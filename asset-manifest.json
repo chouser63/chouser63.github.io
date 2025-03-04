@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chouser63.github.io/static/css/main.14458556.css",
+    "main.js": "/chouser63.github.io/static/js/main.18756f74.js",
+    "static/js/453.55c3503c.chunk.js": "/chouser63.github.io/static/js/453.55c3503c.chunk.js",
+    "index.html": "/chouser63.github.io/index.html",
+    "main.14458556.css.map": "/chouser63.github.io/static/css/main.14458556.css.map",
+    "main.18756f74.js.map": "/chouser63.github.io/static/js/main.18756f74.js.map",
+    "453.55c3503c.chunk.js.map": "/chouser63.github.io/static/js/453.55c3503c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14458556.css",
+    "static/js/main.18756f74.js"
+  ]
+}
